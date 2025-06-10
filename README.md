@@ -51,13 +51,6 @@ organizador-arquivos/
 └── README.md
 ```
 
-## Boas Práticas
-
-- **Commits pequenos e frequentes:** Faça commits claros e objetivos, descrevendo as alterações realizadas.
-- **Branches para novas features:** Crie branches para desenvolvimento de novas funcionalidades ou correções.
-- **Documentação:** Mantenha este README atualizado e documente funções importantes no código.
-- **Testes:** Sempre que possível, adicione testes para garantir a qualidade do código.
-
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
